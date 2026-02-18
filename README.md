@@ -9,6 +9,8 @@ This project demonstrates end-to-end ML workflow including:
 - Model saving using Joblib
 - Real-time prediction integrated with Streamlit
 
+
+live -https://car-price-predictorgit-odszxkyquhhisy2gmdnilk.streamlit.app/
 ---
 
 ## 📌 Project Overview
